@@ -1,0 +1,135 @@
+
+body {
+  margin:0;
+}
+
+header {
+  background-color: #999;
+  color: white;
+}
+
+header h1 {
+    margin: 0px;
+    display: inline;
+}
+
+
+nav ul{
+    margin: 0;
+    display: inline;
+}
+
+nav ul li {
+  background: Black;
+  color: white;
+  display: inline-block;
+  list-style-type: none;
+  padding: 5px 15px;
+  margin: 0px;
+}
+
+nav ul li a {
+  color:white;
+}
+
+.col {
+  margin-top: 5%;
+  position: absolute;
+  left: 20px;
+  background: #333;
+  border-radius: 5px;
+  color: white;
+  padding: 10px .5%;
+  width: 31%;
+}
+
+
+.smile {
+  margin-top: 5%;
+  position: absolute;
+  right: 70px;
+}
+
+.p1 {
+  margin-top: 10%;
+  position: absolute;
+  left: 20px;
+  font-family:sans-serif;
+  font-size: 100%;
+}
+
+.yt1 {
+  margin-top: 10%;
+  position: absolute;
+  left: 10%;
+}
+
+.yt2 {
+  margin-top: 10%;
+  right: -40%;
+  position: absolute;
+
+}
+
+.ytd3 {
+  margin-top: 40%;
+  left: 10%;
+  position: absolute;
+  }
+
+  .col2 {
+    font-size: 25px;
+    font-family: fantasy;
+    margin-top: 5%;
+    position: absolute;
+    left: 15%;
+    background: #333;
+    border-radius: 5px;
+    color: white;
+    padding: 10px .5%;
+    width: 70%;
+  }
+
+  .p3 {
+    font-family:sans-serif;
+    font-size: 25px;
+    margin-top: 15%;
+    position: absolute;
+    left: 15%;
+    background: #333;
+    border-radius: 5px;
+    color: white;
+    padding: 10px .5%;
+    width: 70%;
+  }
+
+ .h2 {
+   font-size: 30px;
+ }
+
+ .h22 {
+   font-size: 30px;
+ }
+
+ .snap {
+   margin-top: 25%;
+   margin-left: 25%;
+   position: absolute;
+ }
+
+ .snaps2 {
+   margin-top: 40%;
+   margin-left: 27%;
+   position: absolute;
+ }
+
+ .yout {
+   margin-top: -12%;
+   margin-left: -1%;
+   position: absolute;
+ }
+
+ .yout2 {
+   margin-top: 42%;
+   margin-left: 17%;
+ }
